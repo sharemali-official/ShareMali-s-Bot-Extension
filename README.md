@@ -62,7 +62,7 @@ Follow these steps to turn the template into a working ShareMali extension:
 
 ---
 
-## Removing / Changing the Default Prefix
+## Deleting Extensions / Changing the Default Prefix
 
 By default, ShareMali uses:  
 
@@ -71,6 +71,19 @@ sharemali?
 ```
 
 So you can't use another prefix like (!,$ etc)
+
+Now, For Deleting Your Own Extension Just Go to server where sharemali bot available and admin > in that server type `sharemali?smextension_delete <your extension name>` e.g `sharemali?smextension_delete template`
+
+Done — Your Extension will be deleted forever from ShareMali Bot
+
+Note: Only you and sharemali can delete your extensions 
+
+Why sharemali can delete my extension?
+
+If you violate the ShareMali's Rules your extension might be delete or rejected by sharemali
+
+
+Remember **ShareMali** don't delete any extensions so fast — he reviewed it so deeply (like 1 or 2 weeks)
 
 ---
 
